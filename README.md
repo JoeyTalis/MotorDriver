@@ -12,4 +12,4 @@ prj_motor_driver ：步进电机驱动（TB6600HG）
 
 
 
-prj_hand_controller ：ZYNQ控制底板
+prj_substrate_board ：ZYNQ控制底板
